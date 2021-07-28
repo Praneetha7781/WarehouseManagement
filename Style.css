@@ -1,0 +1,35 @@
+﻿body {
+    align-items: center;
+    background-color: beige;
+}
+
+div {
+    text-align: center;
+    margin-top: 0%;
+}
+
+.Buttons {
+    justify-content: center;
+    border-radius: 5px;
+    color: black;
+}
+
+.PayButton {
+    justify-content: right;
+    border-color: red;
+}
+
+.SupervisorButton {
+    justify-content: center;
+}
+
+.table {
+    border-collapse: collapse;
+    align-content: center;
+}
+
+th,
+td {
+    border: 1px solid #cecfd5;
+    padding: 10px 15px;
+}
